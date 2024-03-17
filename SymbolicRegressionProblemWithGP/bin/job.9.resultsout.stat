@@ -1,0 +1,194 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=132.476806640625 Adjusted=0.007491938301254205 Hits=0
+Tree 0:
+ (+ (/ (+ (/ (- 0.0 0.0) (- x x)) (+ x (sin
+     x))) (+ (/ (/ 0.0 0.0) x) (sin (sin 0.0))))
+     x)
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=82.0 Adjusted=0.012048192771084338 Hits=0
+Tree 0:
+ (+ (/ (+ (/ (- 0.0 0.0) (- x x)) (+ x (/
+     (- 0.0 0.0) (sin 0.0)))) (+ (/ (/ 0.0 0.0)
+     x) (sin (sin 0.0)))) x)
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=82.0 Adjusted=0.012048192771084338 Hits=0
+Tree 0:
+ (+ (/ (+ (/ (- 0.0 0.0) (- x x)) (+ x (/
+     (- 0.0 0.0) (sin 0.0)))) (+ (/ (/ 0.0 0.0)
+     x) (sin (sin 0.0)))) x)
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=82.0 Adjusted=0.012048192771084338 Hits=0
+Tree 0:
+ (+ (/ (+ (/ (- 0.0 0.0) (- x x)) (+ x (/
+     (- 0.0 0.0) (sin 0.0)))) (+ (/ (/ 0.0 0.0)
+     x) (sin (sin 0.0)))) x)
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=82.0 Adjusted=0.012048192771084338 Hits=0
+Tree 0:
+ (+ (/ (+ (/ (- 0.0 0.0) (- x x)) (+ x (/
+     (+ (+ x 0.0) (/ 0.0 0.0)) (sin 0.0)))) (+
+     (/ (/ 0.0 0.0) x) (sin (sin 0.0)))) x)
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=62.0 Adjusted=0.015873015873015872 Hits=0
+Tree 0:
+ (- (* (+ (* (sin 0.0) (+ 0.0 x)) (* (- 0.0
+     x) (* x 0.0))) (sin (/ (- 0.0 0.0) (sin x))))
+     (- (- (+ (sin x) (- 0.0 0.0)) (+ (+ (+ (/
+         (sin (* x 0.0)) (sin (* x 0.0))) (+ (+ (*
+         x x) (- x x)) (+ (+ 0.0 x) (* 0.0 x)))) (/
+         (* 0.0 0.0) (+ x x))) (sin x))) (+ x (+ x
+         0.0))))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=62.0 Adjusted=0.015873015873015872 Hits=0
+Tree 0:
+ (- (* (+ (* (sin 0.0) (+ 0.0 x)) (* (- 0.0
+     x) (* x 0.0))) (sin (/ (- 0.0 0.0) (sin x))))
+     (- (- (+ (sin x) (- 0.0 0.0)) (+ (+ (+ (/
+         (sin (+ x (sin x))) (sin (* x 0.0))) (+ (+
+         (* x x) (- x x)) (+ (+ 0.0 x) (* 0.0 x))))
+         (/ (* 0.0 0.0) (+ x x))) (sin x))) (+ x (+
+         x 0.0))))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=41.000003814697266 Adjusted=0.023809521646997213 Hits=0
+Tree 0:
+ (- (* (+ (* (sin 0.0) (+ 0.0 x)) (* (- 0.0
+     x) (* x 0.0))) (sin (/ (- 0.0 0.0) (sin x))))
+     (- (- (- 0.0 (/ x 0.0)) (+ (+ (+ (/ (sin
+         (* x 0.0)) (sin (* x 0.0))) (+ (+ (* x x)
+         (- x x)) (+ (+ 0.0 x) (* 0.0 x)))) (/ (*
+         0.0 0.0) (+ x x))) (sin x))) (+ x (+ x 0.0))))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=41.000003814697266 Adjusted=0.023809521646997213 Hits=0
+Tree 0:
+ (- (* (+ (* (sin 0.0) (+ 0.0 x)) (* (- 0.0
+     x) (* x 0.0))) (sin (/ (- 0.0 0.0) (sin x))))
+     (- (- (- 0.0 (/ x 0.0)) (+ (+ (+ (/ (sin
+         (* x (* x 0.0))) (sin (* x 0.0))) (+ (+ (*
+         x x) (- x x)) (+ (+ 0.0 x) (* 0.0 x)))) (/
+         (* 0.0 0.0) (+ x x))) (sin x))) (+ x (+ x
+         0.0))))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=20.0 Adjusted=0.047619047619047616 Hits=1
+Tree 0:
+ (+ (+ (+ (/ (* x x) (- x x)) (+ (- (- 0.0
+     x) 0.0) (/ x 0.0))) x) (+ (+ (+ 0.0 x) (*
+     0.0 x)) (+ (* x x) (+ (/ (+ (/ (- 0.0 0.0)
+     (- x x)) (+ x (/ (- 0.0 0.0) (* x x)))) (+
+     (/ (- x x) (* 0.0 0.0)) (* 0.0 x))) x))))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=20.0 Adjusted=0.047619047619047616 Hits=1
+Tree 0:
+ (+ (+ (+ (/ (* x x) (- x x)) (+ (- (- 0.0
+     x) 0.0) (/ x 0.0))) x) (+ (+ (+ 0.0 x) (*
+     0.0 x)) (+ (* x x) (+ (/ (+ (/ (- 0.0 0.0)
+     (- x x)) (+ x (/ (- 0.0 0.0) (* x x)))) (+
+     (/ (- x x) (* 0.0 0.0)) (* 0.0 x))) x))))
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=19.9999942779541 Adjusted=0.04761906059421192 Hits=1
+Tree 0:
+ (+ (+ (+ (/ (* x x) (- x x)) (+ (- (- 0.0
+     x) 0.0) (/ x 0.0))) x) (+ (+ (+ 0.0 x) (*
+     0.0 x)) (+ (* x x) (+ (/ (+ (/ (- 0.0 0.0)
+     (- x x)) (+ x (/ (sin x) (* x x)))) (+ (/
+     (- x x) (* 0.0 0.0)) (* 0.0 x))) x))))
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=19.9999942779541 Adjusted=0.04761906059421192 Hits=1
+Tree 0:
+ (+ (+ (+ (/ (* x x) (- x x)) (+ (- (- 0.0
+     x) 0.0) (/ x 0.0))) x) (+ (+ (+ 0.0 x) (*
+     0.0 x)) (+ (* x x) (+ (/ (+ (/ (- 0.0 0.0)
+     (- x x)) (+ x (/ (sin x) (* x x)))) (+ (/
+     (- x x) (* 0.0 0.0)) (* 0.0 x))) x))))
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=19.9999942779541 Adjusted=0.04761906059421192 Hits=1
+Tree 0:
+ (+ (+ (+ (/ (* x x) (- x x)) (+ (- (- 0.0
+     x) 0.0) (/ x 0.0))) x) (+ (+ (+ 0.0 x) (*
+     0.0 x)) (+ (* x x) (+ (/ (+ (/ (- 0.0 0.0)
+     (- x x)) (+ x (/ (sin x) (* x x)))) (+ (/
+     (- x x) (* 0.0 0.0)) (* 0.0 x))) x))))
+
+Generation: 14
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.0 Adjusted=1.0 Hits=21
+Tree 0:
+ (- (* (+ (* (sin 0.0) (+ 0.0 x)) (* (- 0.0
+     x) (* x 0.0))) (sin (/ (- 0.0 0.0) (sin x))))
+     (- (- (+ (sin x) (- 0.0 0.0)) (+ (+ (+ (/
+         (sin (* x 0.0)) (sin (* x 0.0))) (+ (+ (*
+         x x) (- x x)) (+ (+ 0.0 x) (* 0.0 (sin 0.0)))))
+         (/ (* 0.0 0.0) (+ (- x x) (* x 0.0)))) (sin
+         x))) (+ x (+ (/ (- 0.0 0.0) (- x x)) (+ x
+         (/ x 0.0))))))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.0 Adjusted=1.0 Hits=21
+Tree 0:
+ (- (* (+ (* (sin 0.0) (+ 0.0 x)) (* (- 0.0
+     x) (* x 0.0))) (sin (/ (- 0.0 0.0) (sin x))))
+     (- (- (+ (sin x) (- 0.0 0.0)) (+ (+ (+ (/
+         (sin (* x 0.0)) (sin (* x 0.0))) (+ (+ (*
+         x x) (- x x)) (+ (+ 0.0 x) (* 0.0 (sin 0.0)))))
+         (/ (* 0.0 0.0) (+ (- x x) (* x 0.0)))) (sin
+         x))) (+ x (+ (/ (- 0.0 0.0) (- x x)) (+ x
+         (/ x 0.0))))))

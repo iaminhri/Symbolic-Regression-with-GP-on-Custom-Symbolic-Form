@@ -1,0 +1,53 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=119.0 Adjusted=0.008333333333333333 Hits=1
+Tree 0:
+ (* (+ 1.0 x) (+ x 1.0))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=119.0 Adjusted=0.008333333333333333 Hits=1
+Tree 0:
+ (* (+ 1.0 x) (+ x 1.0))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=21.0 Adjusted=0.045454545454545456 Hits=0
+Tree 0:
+ (+ (+ (+ 1.0 1.0) (+ x 1.0)) (+ (/ 1.0 1.0)
+     (* (+ 1.0 x) (+ x 1.0))))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=21.0 Adjusted=0.045454545454545456 Hits=0
+Tree 0:
+ (+ (+ (+ 1.0 1.0) (+ x 1.0)) (+ (/ 1.0 1.0)
+     (* (+ 1.0 x) (+ x 1.0))))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.0 Adjusted=1.0 Hits=21
+Tree 0:
+ (+ (+ (+ 1.0 1.0) (+ (* x x) (+ x 1.0)))
+     (+ (sin (- x (- (+ x x) x))) (+ (* 1.0 x)
+         (+ 1.0 x))))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.0 Adjusted=1.0 Hits=21
+Tree 0:
+ (+ (+ (+ 1.0 1.0) (+ (* x x) (+ x 1.0)))
+     (+ (sin (- x (- (+ x x) x))) (+ (* 1.0 x)
+         (+ 1.0 x))))

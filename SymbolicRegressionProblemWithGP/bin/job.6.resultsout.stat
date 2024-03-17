@@ -1,0 +1,147 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=123.05500793457031 Adjusted=0.008060940196202517 Hits=0
+Tree 0:
+ (+ (- (+ (* (sin x) (+ 1.0 x)) (/ (sin 1.0)
+     (sin x))) (+ (- (sin 1.0) (+ x x)) (- (-
+     1.0 x) (* x x)))) (+ (sin (+ (+ 1.0 x) (*
+     x 1.0))) (/ (* (/ 1.0 x) (sin x)) (- (- 1.0
+     x) (- x x)))))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=119.10971069335938 Adjusted=0.008325721494351148 Hits=0
+Tree 0:
+ (+ (+ (+ (/ (* x x) (* 1.0 x)) (/ (- x x)
+     (sin 1.0))) (sin 1.0)) (* (+ 1.0 x) x))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=113.70187377929688 Adjusted=0.008718253390734888 Hits=0
+Tree 0:
+ (+ (- (+ (* (sin x) (+ 1.0 x)) (/ (/ (/ x
+     x) x) (sin x))) (+ (- (sin 1.0) (+ x x))
+     (- (- 1.0 x) (* x x)))) (+ (sin (+ (/ 1.0
+     x) (* x 1.0))) (/ (* (/ 1.0 x) (sin x)) (-
+     (- 1.0 x) (- x x)))))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=24.32910919189453 Adjusted=0.03948026724603509 Hits=0
+Tree 0:
+ (+ (+ (+ (+ (+ (/ 1.0 1.0) (+ 1.0 (* (- x
+     1.0) (+ (* 1.0 1.0) (+ 1.0 x))))) x) (- 1.0
+     x)) (+ x (+ 1.0 x))) (- (sin 1.0) (* (sin
+     (- x x)) (+ (sin 1.0) (sin x)))))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=24.32910919189453 Adjusted=0.03948026724603509 Hits=0
+Tree 0:
+ (+ (+ (+ (+ (+ (/ 1.0 1.0) (+ 1.0 (* (- x
+     1.0) (+ (* 1.0 1.0) (+ 1.0 x))))) x) (- 1.0
+     x)) (+ x (+ 1.0 x))) (- (sin 1.0) (* (sin
+     (- x x)) (+ (sin 1.0) (sin x)))))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=21.16175079345703 Adjusted=0.04512278877782693 Hits=0
+Tree 0:
+ (+ (+ (+ (+ (+ (/ 1.0 1.0) (+ 1.0 (* (- x
+     1.0) (+ (* 1.0 1.0) (+ 1.0 x))))) x) (- 1.0
+     x)) (+ x (+ 1.0 x))) (- (sin 1.0) (* (sin
+     (* (* x (+ 1.0 x)) (sin 1.0))) (+ (sin 1.0)
+     (sin x)))))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=6.65826416015625 Adjusted=0.13057789325193467 Hits=0
+Tree 0:
+ (+ (+ (/ 1.0 1.0) (+ (+ (+ 1.0 x) (sin 1.0))
+     (* (+ 1.0 x) x))) (+ (sin 1.0) (/ x 1.0)))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=3.329108238220215 Adjusted=0.2309944554334175 Hits=0
+Tree 0:
+ (+ (+ (+ 1.0 1.0) (+ x (* (+ (+ 1.0 1.0)
+     x) x))) (+ (+ (/ (* x x) (sin (* (- x x)
+     (/ 1.0 x)))) (/ (- x x) (sin 1.0))) (sin
+     1.0)))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=3.329108238220215 Adjusted=0.2309944554334175 Hits=0
+Tree 0:
+ (+ (+ (+ 1.0 1.0) (+ x (* (+ (+ 1.0 1.0)
+     x) x))) (+ (+ (/ (* 1.0 x) (* 1.0 x)) (/
+     (- x x) (sin 1.0))) (sin 1.0)))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=3.329108238220215 Adjusted=0.2309944554334175 Hits=0
+Tree 0:
+ (+ (+ (+ 1.0 1.0) (+ x (* (+ (+ 1.0 1.0)
+     x) x))) (+ (+ (/ (* 1.0 x) (* 1.0 x)) (/
+     (- x x) (sin 1.0))) (sin 1.0)))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=3.329108238220215 Adjusted=0.2309944554334175 Hits=0
+Tree 0:
+ (+ (+ (+ 1.0 1.0) (+ x (* (+ (+ 1.0 1.0)
+     x) x))) (+ (+ (/ (* x x) (sin (* (- x x)
+     (/ 1.0 x)))) (/ (- x x) (sin 1.0))) (sin
+     1.0)))
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=3.3023056983947754 Adjusted=0.23243350661323484 Hits=2
+Tree 0:
+ (+ (+ (+ (+ 1.0 (+ 1.0 (sin (/ (- (+ (+ (/
+     (* x x) (* 1.0 x)) 1.0) (+ 1.0 x)) 1.0) x))))
+     (* (+ 1.0 x) x)) (+ 1.0 x)) x)
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.0 Adjusted=1.0 Hits=21
+Tree 0:
+ (+ (+ (+ 1.0 1.0) (+ x (* (+ (+ 1.0 1.0)
+     x) x))) (+ (+ (/ (* 1.0 x) (* 1.0 x)) (/
+     (- x x) (sin 1.0))) (/ x x)))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: Standardized=0.0 Adjusted=1.0 Hits=21
+Tree 0:
+ (+ (+ (+ 1.0 1.0) (+ x (* (+ (+ 1.0 1.0)
+     x) x))) (+ (+ (/ (* 1.0 x) (* 1.0 x)) (/
+     (- x x) (sin 1.0))) (/ x x)))
