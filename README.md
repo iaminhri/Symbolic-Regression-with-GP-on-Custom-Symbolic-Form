@@ -6,6 +6,6 @@ In other words, the symbolic regression process finds a mathematical expression 
 fits with the provided dataset. In genetic programming, SR ( Symbolic Regression ) is
 to find a perfect fit of the data points provided in a dataset and search for a function
 from a possible search space of s-expression ( Symbolic expression ) that fits the given
-data points, which is derived from a set of predefined functions and terminals. Furthermore, symbolic regression aims to find the expression that best fits the points and aims
+data points, which is derived from a set of predefined functions and terminals. Furthermore, symbolic regression aims to find the expression that best fits the points and aims
 to find a perfect or closest match between the predicted and the actual output values.
 
